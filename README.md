@@ -15,9 +15,9 @@ Hi, I’m Ritoban — a computer science student working across web development,
 </picture>
 
 
-<p align="center">
+<div style="text-align: center;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o4OEgydWttZHBrHbpyZGlON2sWUmDYb3dAbW1Zcj6Jmbz1lcD12MV9pbnRlcm5hbF9naWZynlfaW0nY3Q2w/JqmupuTV2YaqXSs094/giphy.gif" width="300" alt="Coding is Fun!" />
-</p>
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
