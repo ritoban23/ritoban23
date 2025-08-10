@@ -1,4 +1,4 @@
-name: GitHub Snake Game
+name: Enhanced GitHub Snake Game
 
 on:
   # Schedule the workflow to run daily at midnight UTC
@@ -10,33 +10,68 @@ on:
   push:
     branches:
       - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       # Step 1: Checkout the repository
       - name: Checkout Repository
-        uses: actions/checkout@v3
-      # Step 2: Generate the snake animations
+        uses: actions/checkout@v4
+
+      # Step 2: Setup Node.js for post-processing
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      # Step 3: Install dependencies
+      - name: Install Dependencies
+        run: npm ci
+
+      # Step 4: Generate the base snake animations with custom palettes
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
-          # Define the output files and their configurations
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00ff41&color_dots=#0d1117,#161b22,#21262d,#30363d,#484f58
+            dist/github-snake-light.svg?palette=github-light&color_snake=#40c463&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/ocean.gif?color_snake=#00d4ff&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # Step 3: Deploy the generated files to the 'output' branch
+
+      # Step 5: Post-process SVGs with decorations
+      - name: Decorate Snake SVGs
+        run: node scripts/decorate-snake.js
+
+      # Step 6: Optimize SVGs using SVGO
+      - name: Optimize SVGs
+        run: |
+          npx svgo --config svgo.config.js --input dist --output dist --recursive
+
+      # Step 7: Copy original files for fallback
+      - name: Prepare Distribution Files
+        run: |
+          # Copy originals with different names for fallback
+          cp dist/github-snake.svg dist/github-snake-original.svg 2>/dev/null || true
+          cp dist/github-snake-dark.svg dist/github-snake-original-dark.svg 2>/dev/null || true
+          # Ensure decorated files exist, fallback to originals if needed
+          if [ ! -f "dist/github-snake-decorated.svg" ]; then
+            cp dist/github-snake.svg dist/github-snake-decorated.svg
+          fi
+          if [ ! -f "dist/github-snake-decorated-dark.svg" ]; then
+            cp dist/github-snake-dark.svg dist/github-snake-decorated-dark.svg
+          fi
+
+      # Step 8: Deploy all variants to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          # Optionally, you can set a custom commit message
-          commit_message: "Update snake animation [skip ci]"
+          commit_message: "Update enhanced snake animations [skip ci]"
