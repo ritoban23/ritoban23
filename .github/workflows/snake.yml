@@ -1,40 +1,42 @@
-name: 'Contribution Garden 🪴'
+name: GitHub Snake Game
 
 on:
+  # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *"
+  # Allow manual triggering of the workflow
   workflow_dispatch:
+  # Trigger the workflow on pushes to the main branch
   push:
     branches:
       - main
-
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Contribution Garden
+        uses: actions/checkout@v3
+      # Step 2: Generate the snake animations
+      - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
+          # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
+          # Define the output files and their configurations
           outputs: |
-            dist/garden.svg?palette=github-dark&color_snake=#4ade80&color_dots=#065f46,#047857,#059669,#10b981,#34d399,#6ee7b7,#a7f3d0
-            dist/garden-light.svg?palette=github-light&color_snake=#059669&color_dots=#ecfdf5,#d1fae5,#a7f3d0,#6ee7b7,#34d399,#10b981,#059669
-          
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Deploy to Garden Branch
-        uses: peaceiris/actions-gh-pages@v4
+      # Step 3: Deploy the generated files to the 'output' branch
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: garden-art
-          force_orphan: true
-          commit_message: "🌱 Water the contribution garden [skip ci]"
+          publish_branch: output
+          # Optionally, you can set a custom commit message
+          commit_message: "Update snake animation [skip ci]"

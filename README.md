@@ -1,102 +1,29 @@
-<div align="center">
+# Who I Am:
+Hi, IG��m Ritoban G�� a computer science student working across web development, AI. I focus on building clean, functional solutions and enjoy operating at the intersection of technology, design, and what the market demands.<br><br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> Hey there! I'm Ritoban
+# =��+ Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%73777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+Student;Web+Development+%7C+Web3+%7C+AI+Enthusiast;Building+Clean%2C+Functional+Solutions;Operating+at+Tech+%26+Design+Intersection" alt="Typing SVG" />
+## Open Source Contributions
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I contribute to open-source projects outside my own repositories. Here are some repositories I've contributed to:
 
-</div>
+- microsoft/vscode
+- vercel/next.js
+- facebook/react
 
-## 🚀 About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritoban23/ritoban23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riotban23/ritoban23/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ritoban23/ritoban23/output/github-snake.svg" />
+</picture>
 
-> *A passionate computer science student working across web development, web3, and AI, focusing on building clean, functional solutions at the intersection of technology, design, and market demands.*
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o4eDgydWttZHBrbHpyZGloN25uMTJybWQ3d3Bvb3d4NHIzcjBmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300" alt="Coding is Fun!" />
+</p>
 
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o4eDgydWttZHBrbHpyZGloN25uMTJybWQ3d3Bvb3d4NHIzcjBmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
-- 🔭 Currently working on **Web Development & Web3 Projects**
-- 🌱 Learning **Advanced React Patterns & AI Integration**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, TypeScript, Web3, AI**
-- ⚡ Fun fact: **I love creating beautiful, functional UIs**
 
-<br clear="right"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💻 Tech Stack
-
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react&theme=dark&perline=5" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,cpp&theme=dark&perline=4" />
-
-### Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=3" />
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,bash,vscode&theme=dark&perline=5" />
-
-### Design & Others
-<img src="https://skillicons.dev/icons?i=figma,postman,vercel,netlify,markdown&theme=dark&perline=5" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🌱 Open Source Contributions
-
-<div align="center">
-  
-### Repositories I've Contributed To (Beyond My Own)
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/microsoft/vscode">
-        <img src="https://avatars.githubusercontent.com/u/6154722?s=60&v=4" width="50" height="50" alt="Microsoft"/>
-        <br />
-        <sub><b>VS Code</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vercel/next.js">
-        <img src="https://avatars.githubusercontent.com/u/14985020?s=60&v=4" width="50" height="50" alt="Vercel"/>
-        <br />
-        <sub><b>Next.js</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/facebook/react">
-        <img src="https://avatars.githubusercontent.com/u/69631?s=60&v=4" width="50" height="50" alt="Facebook"/>
-        <br />
-        <sub><b>React</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-*More contributions coming soon! Always looking for interesting projects to contribute to.*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🪴 Contribution Garden
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritoban23/ritoban23/garden-art/garden.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritoban23/ritoban23/garden-art/garden-light.svg" />
-    <img alt="contribution-garden" src="https://raw.githubusercontent.com/ritoban23/ritoban23/garden-art/garden.svg" />
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&width=600&lines=⭐+Star+some+repositories+if+you+find+them+interesting!;🤝+Always+open+to+collaborate+on+exciting+projects;💡+Let's+build+something+amazing+together!" alt="Footer" />
-</div>
