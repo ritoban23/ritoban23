@@ -90,6 +90,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritoban23/ritoban23/garden-art/garden.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritoban23/ritoban23/garden-art/garden-light.svg" />
     <img alt="contribution-garden" src="https://raw.githubusercontent.com/ritoban23/ritoban23/garden-art/garden.svg" />
   </picture>
 </div>

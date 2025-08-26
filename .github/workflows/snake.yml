@@ -10,18 +10,22 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Generate Contribution Garden
-        uses: avgupta456/github-contribution-grid-snake@v0.1.2
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # The important part: Set the style to 'garden'
           outputs: |
-            dist/garden.svg?style=garden
+            dist/garden.svg?palette=github-dark&color_snake=#4ade80&color_dots=#065f46,#047857,#059669,#10b981,#34d399,#6ee7b7,#a7f3d0
+            dist/garden-light.svg?palette=github-light&color_snake=#059669&color_dots=#ecfdf5,#d1fae5,#a7f3d0,#6ee7b7,#34d399,#10b981,#059669
           
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -31,6 +35,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          # Use a dedicated branch
           publish_branch: garden-art
-          commit_message: "chore: Water the contribution garden 🌱 [skip ci]"
+          force_orphan: true
+          commit_message: "🌱 Water the contribution garden [skip ci]"
