@@ -1,47 +1,36 @@
-name: Generate Snake Animation
+name: 'Contribution Garden 🪴'
 
 on:
-  # Schedule the workflow to run every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-  # Allow manual triggering of the workflow
+    - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch:
-  # Trigger the workflow on pushes to the main branch
   push:
     branches:
       - main
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v4
-        
-      # Step 2: Generate the snake animations with purple/pink gradient theme
-      - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@v3
+
+      - name: Generate Contribution Garden
+        uses: avgupta456/github-contribution-grid-snake@v0.1.2
         with:
           github_user_name: ${{ github.repository_owner }}
+          # The important part: Set the style to 'garden'
           outputs: |
-            output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark&color_snake=#8B5CF6&color_dots=#EC4899,#F472B6,#A855F7,#8B5CF6,#7C3AED
-            output/github-snake-light.svg?palette=github-light&color_snake=#EC4899&color_dots=#8B5CF6,#A855F7,#C084FC,#E879F9,#F0ABFC
-            output/ocean.gif?color_snake=#8B5CF6&color_dots=#EC4899,#F472B6,#A855F7,#C084FC,#E879F9
+            dist/garden.svg?style=garden
+          
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # Step 3: Deploy the generated files to the 'output' branch
-      - name: Deploy to Output Branch
+
+      - name: Deploy to Garden Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
-          publish_branch: output
-          force_orphan: true
-          commit_message: "🐍 Update snake animation with purple/pink gradient theme"
+          publish_dir: ./dist
+          # Use a dedicated branch
+          publish_branch: garden-art
+          commit_message: "chore: Water the contribution garden 🌱 [skip ci]"
