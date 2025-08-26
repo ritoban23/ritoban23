@@ -1,21 +1,126 @@
-# Who I Am:
-Hi, I’m Ritoban — a computer science student working across web development, AI. I focus on building clean, functional solutions and enjoy operating at the intersection of technology, design, and what the market demands.<br><br>
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> Hey there! I'm Ritoban
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritoban23/ritoban23/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riotban23/ritoban23/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ritoban23/ritoban23/output/github-snake.svg" />
-</picture>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+Student;Web+Development+%7C+AI+Enthusiast;Building+Clean%2C+Functional+Solutions;Operating+at+Tech+%26+Design+Intersection" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o4eDgydWttZHBrbHpyZGloN25uMTJybWQ3d3Bvb3d4NHIzcjBmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300" alt="Coding is Fun!" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+</div>
 
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> *A passionate computer science student working across web development and AI, focusing on building clean, functional solutions at the intersection of technology, design, and market demands.*
 
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o4eDgydWttZHBrbHpyZGloN25uMTJybWQ3d3Bvb3d4NHIzcjBmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
+- 🔭 Currently working on **Web Development Projects**
+- 🌱 Learning **Advanced React Patterns & AI Integration**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, TypeScript, AI**
+- ⚡ Fun fact: **I love creating beautiful, functional UIs**
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,react,nodejs,express,php,cpp,bash,markdown&theme=dark" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,vercel,netlify&theme=dark" />
+
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritoban23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF&ring_color=8B5CF6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritoban23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritoban23&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritoban23/ritoban23/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritoban23/ritoban23/output/github-snake-light.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ritoban23/ritoban23/output/github-snake.svg" />
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 Currently Working On
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=EC4899&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+Modern+Web+Applications;⚡+Exploring+AI+Integration+in+Web+Development;🎨+Creating+Beautiful+User+Interfaces;🔧+Contributing+to+Open+Source+Projects" alt="Current Projects" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-A855F7?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritoban23&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=EC4899&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ritoban23&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 👀 Profile Views
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=ritoban23&icon=5&color=8)](https://visitcount.itsvg.in)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&width=600&lines=⭐+Star+some+repositories+if+you+find+them+interesting!;🤝+Always+open+to+collaborate+on+exciting+projects;💡+Let's+build+something+amazing+together!" alt="Footer" />
+</div>
+
+<!-- Proudly created with enhanced animations and gradients -->
