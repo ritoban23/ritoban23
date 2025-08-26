@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> Hey there! I'm Ritoban
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+Student;Web+Development+%7C+AI+Enthusiast;Building+Clean%2C+Functional+Solutions;Operating+at+Tech+%26+Design+Intersection" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+Student;Web+Development+%7C+Web3+%7C+AI+Enthusiast;Building+Clean%2C+Functional+Solutions;Operating+at+Tech+%26+Design+Intersection" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -10,14 +10,14 @@
 
 ## 🚀 About Me
 
-> *A passionate computer science student working across web development and AI, focusing on building clean, functional solutions at the intersection of technology, design, and market demands.*
+> *A passionate computer science student working across web development, web3, and AI, focusing on building clean, functional solutions at the intersection of technology, design, and market demands.*
 
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o4eDgydWttZHBrbHpyZGloN25uMTJybWQ3d3Bvb3d4NHIzcjBmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
-- 🔭 Currently working on **Web Development Projects**
+- 🔭 Currently working on **Web Development & Web3 Projects**
 - 🌱 Learning **Advanced React Patterns & AI Integration**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, TypeScript, AI**
+- 💬 Ask me about **React, Node.js, TypeScript, Web3, AI**
 - ⚡ Fun fact: **I love creating beautiful, functional UIs**
 
 <br clear="right"/>
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=EC4899&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+Modern+Web+Applications;⚡+Exploring+AI+Integration+in+Web+Development;🎨+Creating+Beautiful+User+Interfaces;🔧+Contributing+to+Open+Source+Projects" alt="Current Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=EC4899&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+Modern+Web+Applications;⚡+Exploring+Web3+%26+AI+Integration;🎨+Creating+Beautiful+User+Interfaces;🔧+Contributing+to+Open+Source+Projects" alt="Current Projects" />
 
 </div>
 

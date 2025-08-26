@@ -1,0 +1,21 @@
+{
+  "name": "ritoban23-profile",
+  "version": "1.0.0",
+  "description": "Enhanced GitHub profile with decorated snake contributions",
+  "main": "scripts/decorate-snake.js",
+  "scripts": {
+    "decorate": "node scripts/decorate-snake.js",
+    "optimize": "svgo --config svgo.config.js"
+  },
+  "devDependencies": {
+    "svgo": "^3.0.0"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "snake",
+    "contributions"
+  ],
+  "author": "ritoban23",
+  "license": "MIT"
+}
