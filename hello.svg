@@ -118,9 +118,9 @@
 <animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="8430ms" keyTimes="0;0.698;0.698;0.816;1"/>
 </use>
 <use href="#glyph110" x="90" y="6" fill="white">
-<animate attributeName="fill" begin="line0.begin" values="black;black;#ff9123;white;white" dur="8430ms" keyTimes="0;0.698;0.698;0.816;1"/>
-<animate attributeName="stroke" begin="line0.begin" values="black;black;#ff9123;white;white" dur="8430ms" keyTimes="0;0.698;0.698;0.816;1"/>
-<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="8430ms" keyTimes="0;0.698;0.698;0.816;1"/>
+<animate attributeName="fill" begin="line0.begin" values="black;black;#ff9123;white;white" dur="8430ms" keyTimes="0;0.739;0.739;0.858;1"/>
+<animate attributeName="stroke" begin="line0.begin" values="black;black;#ff9123;white;white" dur="8430ms" keyTimes="0;0.739;0.739;0.858;1"/>
+<animate attributeName="stroke-width" begin="line0.begin" values="0;0;0.7;0;0" dur="8430ms" keyTimes="0;0.739;0.739;0.858;1"/>
 </use>
 <use href="#glyph10" x="96" y="6" fill="white">
 <animate attributeName="fill" begin="line0.begin" values="black;black;#ff9123;white;white" dur="8430ms" keyTimes="0;0.822;0.822;0.941;1"/>
@@ -129,123 +129,3 @@
 </g>
 </g>
 </svg>
-
-# 💻 Tech Stack
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-<tr>
-<td align="center" width="96">
-<i class="devicon-html5-plain colored" style="font-size: 48px;"></i>
-<br>HTML5
-</td>
-<td align="center" width="96">
-<i class="devicon-css3-plain colored" style="font-size: 48px;"></i>
-<br>CSS3
-</td>
-<td align="center" width="96">
-<i class="devicon-tailwindcss-original colored" style="font-size: 48px;"></i>
-<br>TailwindCSS
-</td>
-<td align="center" width="96">
-<i class="devicon-react-original-wordmark colored" style="font-size: 48px;"></i>
-<br>React
-</td>
-<td align="center" width="96">
-<i class="devicon-javascript-plain colored" style="font-size: 48px;"></i>
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<i class="devicon-typescript-plain colored" style="font-size: 48px;"></i>
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<i class="devicon-cplusplus-plain colored" style="font-size: 48px;"></i>
-<br>C++
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<i class="devicon-nodejs-plain-wordmark colored" style="font-size: 48px;"></i>
-<br>NodeJS
-</td>
-<td align="center" width="96">
-<i class="devicon-express-original-wordmark" style="font-size: 48px;"></i>
-<br>Express
-</td>
-<td align="center" width="96">
-<i class="devicon-mongodb-plain-wordmark colored" style="font-size: 48px;"></i>
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<i class="devicon-supabase-plain-wordmark colored" style="font-size: 48px;"></i>
-<br>Supabase
-</td>
-<td align="center" width="96">
-<i class="devicon-postgresql-plain colored" style="font-size: 48px;"></i>
-<br>PostgreSQL
-</td>
-<td align="center" width="96">
-<i class="devicon-postman-plain colored" style="font-size: 48px;"></i>
-<br>Postman
-</td>
-<td align="center" width="96">
-<i class="devicon-amazonwebservices-plain-wordmark colored" style="font-size: 48px;"></i>
-<br>AWS
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<i class="devicon-docker-plain-wordmark colored" style="font-size: 48px;"></i>
-<br>Docker
-</td>
-<td align="center" width="96">
-<i class="devicon-git-plain-wordmark colored" style="font-size: 48px;"></i>
-<br>Git
-</td>
-<td align="center" width="96">
-<i class="devicon-github-original colored" style="font-size: 48px;"></i>
-<br>GitHub
-</td>
-<td align="center" width="96">
-<i class="devicon-figma-plain colored" style="font-size: 48px;"></i>
-<br>Figma
-</td>
-<td align="center" width="96">
-<i class="devicon-linux-plain colored" style="font-size: 48px;"></i>
-<br>Linux
-</td>
-<td align="center" width="96">
-<i class="devicon-vscode-plain colored" style="font-size: 48px;"></i>
-<br>VSCode
-</td>
-<td align="center" width="96">
-<i class="devicon-mysql-plain-wordmark colored" style="font-size: 48px;"></i>
-<br>MySQL
-</td>
-<td align="center" width="96">
-<i class="devicon-nextjs-original-wordmark" style="font-size: 48px;"></i>
-<br>NextJS
-</td>
-</tr>
-</table>
-</div>
-<br><br>
-
-Beyond my personal projects, I am an active contributor to the broader open-source community, engaging with codebases outside of my own repositories.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritoban23/ritoban23/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riotban23/ritoban23/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ritoban23/ritoban23/output/github-snake.svg" />
-</picture>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o4eDgydWttZHBrbHpyZGloN25uMTJybWQ3d3Bvb3d4NHIzcjBmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300" alt="Coding is Fun!" />
-</p>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
