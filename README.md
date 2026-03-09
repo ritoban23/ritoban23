@@ -1,8 +1,9 @@
 <img src="./sample3.svg" alt="who-am-i" width="300" align="left" style="margin-right:16px;"/><br/><br/><br/>
-Hi, I'm Ritoban – a computer science student working across web development, AI, web3. I focus on building clean, functional solutions and enjoy operating at the intersection of technology, design, and what the market demands.<br><br>
-Beyond my personal projects, I am an active contributor to the broader open-source community, engaging with codebases outside of my own repositories.
+Hi, I'm Ritoban - I'm interested in systems thinking, software engineering, and the architecture of modern technology.<br><br>
+I enjoy building clean, functional solutions across web development, AI, and web3, with a focus on efficiency, clarity, and thoughtful design. I approach engineering with curiosity and a beginner's mind, constantly deconstructing problems and rebuilding better abstractions.<br><br>
+Beyond my personal projects, I actively contribute to open-source software and enjoy engaging with codebases outside of my own repositories.
 
-## 💻 Tech I use:
+## Tech I use:
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>&nbsp;&nbsp;
